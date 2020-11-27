@@ -1,0 +1,42 @@
+﻿@model IEnumerable<OnlinePetStoreInfoAPI.Models.PetStoreModel>
+    @{
+        ViewData["Title"] = "Home Page";
+    }
+
+    <div class="row">
+        <div class="col-md-4">
+            <h2>Welcome to Online Petstore</h2>
+        </div>
+        <div>
+            <div id="content">
+                <div id="announcement">
+                    <center>
+                        <p><marquee>Latest News: WEBSITE IS STILL UNDER MAINTENANCE!</marquee></p>
+                    </center>
+                </div>
+            </div>
+            <table class="table table-condensed table-hover">
+                <tr class="table-header">
+                    <th>StoreId</th>
+                    <th>StoreName</th>
+                    <th>StoreDescription</th>
+                    <th>StoreAddress</th>
+                    <th>Options</th>
+                @foreach(var item in Model)
+                {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.StoreId)</td>
+        <td>@Html.DisplayFor(modelItem => item.StoreName)</td>
+        <td>@Html.DisplayFor(modelItem => item.StoreDescription)</td>
+        <td>@Html.DisplayFor(modelItem => item.StoreAddress)</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.StoreId">Edit</a> |
+                        <a asp-action="Delete" asp-route-id="@item.StoreId">Delete</a>
+                    </td>
+                </tr>
+                }
+            </table>
+            <button type="submit"><a asp-action="Create">Add a store</a></button>
+            
+        </div>
+    </div>

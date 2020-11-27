@@ -1,0 +1,3 @@
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp3.1\OnlinePetStoreLibrary.AssemblyInfoInputs.cache
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp3.1\OnlinePetStoreLibrary.AssemblyInfo.cs
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp3.1\OnlinePetStoreLibrary.csproj.CoreCompileInputs.cache

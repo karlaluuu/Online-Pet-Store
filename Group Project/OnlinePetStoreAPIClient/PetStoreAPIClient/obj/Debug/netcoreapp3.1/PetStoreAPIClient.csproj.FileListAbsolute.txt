@@ -1,0 +1,17 @@
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp3.1\PetStoreAPIClient.exe
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp3.1\PetStoreAPIClient.csprojAssemblyReference.cache
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp3.1\PetStoreAPIClient.AssemblyInfoInputs.cache
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp3.1\PetStoreAPIClient.AssemblyInfo.cs
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp3.1\PetStoreAPIClient.deps.json
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp3.1\PetStoreAPIClient.runtimeconfig.json
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp3.1\PetStoreAPIClient.runtimeconfig.dev.json
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp3.1\PetStoreAPIClient.dll
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp3.1\PetStoreAPIClient.pdb
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp3.1\PetStoreAPIClient.csproj.CoreCompileInputs.cache
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp3.1\PetStoreAPIClient.csproj.CopyComplete
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp3.1\PetStoreAPIClient.dll
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp3.1\PetStoreAPIClient.pdb
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp3.1\PetStoreAPIClient.genruntimeconfig.cache

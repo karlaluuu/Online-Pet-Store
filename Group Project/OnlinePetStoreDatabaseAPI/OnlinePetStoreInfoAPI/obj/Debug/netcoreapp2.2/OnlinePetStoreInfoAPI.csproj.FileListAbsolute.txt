@@ -1,0 +1,7 @@
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreInfoAPI\bin\Debug\netcoreapp2.2\OnlinePetStoreLibrary.dll
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreInfoAPI\obj\Debug\netcoreapp2.2\OnlinePetStoreInfoAPI.csprojAssemblyReference.cache
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreInfoAPI\obj\Debug\netcoreapp2.2\OnlinePetStoreInfoAPI.AssemblyInfoInputs.cache
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreInfoAPI\obj\Debug\netcoreapp2.2\OnlinePetStoreInfoAPI.AssemblyInfo.cs
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreInfoAPI\obj\Debug\netcoreapp2.2\OnlinePetStoreInfoAPI.RazorAssemblyInfo.cache
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreInfoAPI\obj\Debug\netcoreapp2.2\OnlinePetStoreInfoAPI.RazorAssemblyInfo.cs
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreInfoAPI\obj\Debug\netcoreapp2.2\OnlinePetStoreInfoAPI.RazorTargetAssemblyInfo.cache

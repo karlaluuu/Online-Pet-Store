@@ -1,0 +1,35 @@
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\bin\Debug\netcoreapp2.1\OnlinePetStoreLibrary.deps.json
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\bin\Debug\netcoreapp2.1\OnlinePetStoreLibrary.runtimeconfig.json
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\bin\Debug\netcoreapp2.1\OnlinePetStoreLibrary.runtimeconfig.dev.json
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\bin\Debug\netcoreapp2.1\OnlinePetStoreLibrary.dll
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\bin\Debug\netcoreapp2.1\OnlinePetStoreLibrary.pdb
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.csprojAssemblyReference.cache
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.AssemblyInfoInputs.cache
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.AssemblyInfo.cs
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.csproj.CoreCompileInputs.cache
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.dll
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.pdb
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.genruntimeconfig.cache
+D:\Kiran bro\sss\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\bin\Debug\netcoreapp2.1\OnlinePetStoreLibrary.deps.json
+D:\Kiran bro\sss\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\bin\Debug\netcoreapp2.1\OnlinePetStoreLibrary.runtimeconfig.json
+D:\Kiran bro\sss\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\bin\Debug\netcoreapp2.1\OnlinePetStoreLibrary.runtimeconfig.dev.json
+D:\Kiran bro\sss\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\bin\Debug\netcoreapp2.1\OnlinePetStoreLibrary.dll
+D:\Kiran bro\sss\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\bin\Debug\netcoreapp2.1\OnlinePetStoreLibrary.pdb
+D:\Kiran bro\sss\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.AssemblyInfoInputs.cache
+D:\Kiran bro\sss\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.AssemblyInfo.cs
+D:\Kiran bro\sss\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.csproj.CoreCompileInputs.cache
+D:\Kiran bro\sss\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.dll
+D:\Kiran bro\sss\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.pdb
+D:\Kiran bro\sss\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.genruntimeconfig.cache
+D:\Kiran bro\sss\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.csprojAssemblyReference.cache
+K:\Karlaluuu-PC\Documents\Semester 6\API Engineering & Cloud Comp\Assignments\Project\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\bin\Debug\netcoreapp2.1\OnlinePetStoreLibrary.deps.json
+K:\Karlaluuu-PC\Documents\Semester 6\API Engineering & Cloud Comp\Assignments\Project\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\bin\Debug\netcoreapp2.1\OnlinePetStoreLibrary.runtimeconfig.json
+K:\Karlaluuu-PC\Documents\Semester 6\API Engineering & Cloud Comp\Assignments\Project\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\bin\Debug\netcoreapp2.1\OnlinePetStoreLibrary.runtimeconfig.dev.json
+K:\Karlaluuu-PC\Documents\Semester 6\API Engineering & Cloud Comp\Assignments\Project\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\bin\Debug\netcoreapp2.1\OnlinePetStoreLibrary.dll
+K:\Karlaluuu-PC\Documents\Semester 6\API Engineering & Cloud Comp\Assignments\Project\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\bin\Debug\netcoreapp2.1\OnlinePetStoreLibrary.pdb
+K:\Karlaluuu-PC\Documents\Semester 6\API Engineering & Cloud Comp\Assignments\Project\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.AssemblyInfoInputs.cache
+K:\Karlaluuu-PC\Documents\Semester 6\API Engineering & Cloud Comp\Assignments\Project\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.AssemblyInfo.cs
+K:\Karlaluuu-PC\Documents\Semester 6\API Engineering & Cloud Comp\Assignments\Project\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.csproj.CoreCompileInputs.cache
+K:\Karlaluuu-PC\Documents\Semester 6\API Engineering & Cloud Comp\Assignments\Project\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.dll
+K:\Karlaluuu-PC\Documents\Semester 6\API Engineering & Cloud Comp\Assignments\Project\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.pdb
+K:\Karlaluuu-PC\Documents\Semester 6\API Engineering & Cloud Comp\Assignments\Project\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreLibrary\obj\Debug\netcoreapp2.1\OnlinePetStoreLibrary.genruntimeconfig.cache

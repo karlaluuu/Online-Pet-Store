@@ -1,0 +1,24 @@
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp2.1\PetStoreAPIClient.deps.json
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp2.1\PetStoreAPIClient.runtimeconfig.json
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp2.1\PetStoreAPIClient.runtimeconfig.dev.json
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp2.1\PetStoreAPIClient.dll
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp2.1\PetStoreAPIClient.pdb
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp2.1\PetStoreAPIClient.csprojAssemblyReference.cache
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp2.1\PetStoreAPIClient.AssemblyInfoInputs.cache
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp2.1\PetStoreAPIClient.AssemblyInfo.cs
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp2.1\PetStoreAPIClient.csproj.CoreCompileInputs.cache
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp2.1\PetStoreAPIClient.dll
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp2.1\PetStoreAPIClient.pdb
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp2.1\PetStoreAPIClient.genruntimeconfig.cache
+D:\Kiran bro\sss\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp2.1\PetStoreAPIClient.deps.json
+D:\Kiran bro\sss\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp2.1\PetStoreAPIClient.runtimeconfig.json
+D:\Kiran bro\sss\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp2.1\PetStoreAPIClient.runtimeconfig.dev.json
+D:\Kiran bro\sss\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp2.1\PetStoreAPIClient.dll
+D:\Kiran bro\sss\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\bin\Debug\netcoreapp2.1\PetStoreAPIClient.pdb
+D:\Kiran bro\sss\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp2.1\PetStoreAPIClient.csprojAssemblyReference.cache
+D:\Kiran bro\sss\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp2.1\PetStoreAPIClient.AssemblyInfoInputs.cache
+D:\Kiran bro\sss\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp2.1\PetStoreAPIClient.AssemblyInfo.cs
+D:\Kiran bro\sss\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp2.1\PetStoreAPIClient.csproj.CoreCompileInputs.cache
+D:\Kiran bro\sss\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp2.1\PetStoreAPIClient.dll
+D:\Kiran bro\sss\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp2.1\PetStoreAPIClient.pdb
+D:\Kiran bro\sss\Group Project\OnlinePetStoreAPIClient\PetStoreAPIClient\obj\Debug\netcoreapp2.1\PetStoreAPIClient.genruntimeconfig.cache

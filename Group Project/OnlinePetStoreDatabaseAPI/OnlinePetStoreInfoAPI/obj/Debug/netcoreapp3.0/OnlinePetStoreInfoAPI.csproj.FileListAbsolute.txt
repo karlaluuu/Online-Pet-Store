@@ -1,0 +1,6 @@
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreInfoAPI\obj\Debug\netcoreapp3.0\OnlinePetStoreInfoAPI.csprojAssemblyReference.cache
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreInfoAPI\obj\Debug\netcoreapp3.0\OnlinePetStoreInfoAPI.AssemblyInfoInputs.cache
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreInfoAPI\obj\Debug\netcoreapp3.0\OnlinePetStoreInfoAPI.AssemblyInfo.cs
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreInfoAPI\obj\Debug\netcoreapp3.0\OnlinePetStoreInfoAPI.csproj.CoreCompileInputs.cache
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreInfoAPI\obj\Debug\netcoreapp3.0\OnlinePetStoreInfoAPI.MvcApplicationPartsAssemblyInfo.cs
+K:\Karlaluuu-PC\Desktop\Group Project\OnlinePetStoreDatabaseAPI\OnlinePetStoreInfoAPI\obj\Debug\netcoreapp3.0\OnlinePetStoreInfoAPI.MvcApplicationPartsAssemblyInfo.cache

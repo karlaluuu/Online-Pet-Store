@@ -1,0 +1,205 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "v1",
+    "title": "Online Pet Store"
+  },
+  "paths": {
+    "/api/Store": {
+      "get": {
+        "tags": [ "Store" ],
+        "operationId": "ApiStoreGet",
+        "consumes": [],
+        "produces": [ "text/plain", "application/json", "text/json" ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": { "$ref": "#/definitions/PetStore" }
+          }
+        }
+      },
+      "post": {
+        "tags": [ "Store" ],
+        "operationId": "ApiStorePost",
+        "consumes": [ "application/json-patch+json", "application/json", "text/json", "application/*+json" ],
+        "produces": [ "text/plain", "application/json", "text/json" ],
+        "parameters": [
+          {
+            "name": "petStore",
+            "in": "body",
+            "required": false,
+            "schema": { "$ref": "#/definitions/PetStore" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": { "$ref": "#/definitions/PetStore" }
+          }
+        }
+      }
+    },
+    "/api/Store/{id}": {
+      "get": {
+        "tags": [ "Store" ],
+        "operationId": "ApiStoreByIdGet",
+        "consumes": [],
+        "produces": [ "text/plain", "application/json", "text/json" ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": { "$ref": "#/definitions/PetStore" }
+          }
+        }
+      },
+      "put": {
+        "tags": [ "Store" ],
+        "operationId": "ApiStoreByIdPut",
+        "consumes": [ "application/json-patch+json", "application/json", "text/json", "application/*+json" ],
+        "produces": [],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "name": "petStore",
+            "in": "body",
+            "required": false,
+            "schema": { "$ref": "#/definitions/PetStore" }
+          }
+        ],
+        "responses": { "200": { "description": "Success" } }
+      }
+    },
+    "/api/Value": {
+      "get": {
+        "tags": [ "Value" ],
+        "operationId": "ApiValueGet",
+        "consumes": [],
+        "produces": [ "text/plain", "application/json", "text/json" ],
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "uniqueItems": false,
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [ "Value" ],
+        "operationId": "ApiValuePost",
+        "consumes": [ "application/json-patch+json", "application/json", "text/json", "application/*+json" ],
+        "produces": [],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "required": false,
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "name": "value",
+            "in": "body",
+            "required": false,
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": { "200": { "description": "Success" } }
+      }
+    },
+    "/api/Value/{id}": {
+      "get": {
+        "tags": [ "Value" ],
+        "operationId": "ApiValueByIdGet",
+        "consumes": [],
+        "produces": [ "text/plain", "application/json", "text/json" ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": { "type": "string" }
+          }
+        }
+      },
+      "put": {
+        "tags": [ "Value" ],
+        "operationId": "ApiValueByIdPut",
+        "consumes": [ "application/json-patch+json", "application/json", "text/json", "application/*+json" ],
+        "produces": [],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "name": "value",
+            "in": "body",
+            "required": false,
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": { "200": { "description": "Success" } }
+      },
+      "delete": {
+        "tags": [ "Value" ],
+        "operationId": "ApiValueByIdDelete",
+        "consumes": [],
+        "produces": [],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": { "200": { "description": "Success" } }
+      }
+    }
+  },
+  "definitions": {
+    "PetStore": {
+      "type": "object",
+      "properties": {
+        "storeId": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "storeName": { "type": "string" },
+        "storeDescription": { "type": "string" },
+        "storeAddress": { "type": "string" }
+      }
+    }
+  }
+}
